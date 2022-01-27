@@ -2,6 +2,8 @@
 
 ## FOR ONLOOKERS: This is to preserve the codebase for personal use, as it is software controlling a keyboard I purchased; I have made no edits nor altered or contributed to it in any way, and therefore it should not be used for evaluative purposes, if somehow this git winds up being shared with prospective employers/interested parties.
 
+\- CanadianVice
+
 ------------
 
 
